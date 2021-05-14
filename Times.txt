@@ -1,0 +1,39 @@
+Site ICPC inscrição maratona
+https://icpc.global/private
+
+Todos e-mails:
+victorsilva7p@gmail.com;gusrigor@icloud.com;viniciuslima.4k@gmail.com;christopher.ferreira.silva@outlook.com;felipekumada@outlook.com;joaovictorbcomputacao@gmail.com
+
+Nome do time: Triplo T
+ 
+E-mail competidor 1: victorsilva7p@gmail.com
+Nome completo competidor 1: Victor da Silva Costa
+Data nascimento competidor 1: 17/08/1999
+Sexo competidor 1(M|F): M
+ 
+E-mail competidor 2: gusrigor@icloud.com
+Nome completo competidor 2: Gustavo Gomes Rigor
+Data nascimento competidor 2: 23/02/2000
+Sexo competidor 2 (M|F): M
+ 
+E-mail competidor 3: viniciuslima.4k@gmail.com
+Nome completo competidor 3:  Vinicius Lima Fernandes
+Data nascimento competidor 3: 13/11/1999
+Sexo competidor 3 (M|F): M
+*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
+Time: Capítons
+
+E-mail: christopher.ferreira.silva@outlook.com
+Nome: Christopher Ferreira Silva
+Nascimento: 28/06/2001
+Sexo: M
+
+E-mail: felipekumada@outlook.com
+Nome: Felipe Jun Mimada
+Nascimento: 28/09/2001
+Sexo: M
+
+E-mail: joaovictorbcomputacao@gmail.com
+Nome: João Victor Baptista de Souza
+Nascimento: 01/02/2001
+Sexo: M

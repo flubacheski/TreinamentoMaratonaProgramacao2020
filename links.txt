@@ -1,0 +1,31 @@
+Site ICPC inscrição maratona
+https://icpc.global/private
+	login:flubacheski@gmail.com
+	senha: 11042003
+	
+Site da maratona de programação
+http://maratona.ime.usp.br/
+
+Treinamento da Maratona - UriOnline
+https://www.urionlinejudge.com.br/
+
+Treinamento da Maratona - Spoj
+http://br.spoj.com/
+
+Site com dicas para resolução de problemas da Maratona da UFMG
+http://wiki.maratona.dcc.ufmg.br/index.php/Categorias
+
+
+Blog com dicas de treinamento - Marathoncode
+http://marathoncode.blogspot.com.br/
+
+Divisao conquista
+http://wiki.maratona.dcc.ufmg.br/index.php/BALDES
+
+
+
+OBI - treinamento
+http://olimpiada.ic.unicamp.br/pratique/iniciacao
+
+Problemas básicos da OBI organizado por assuntos e teorias
+https://www.t-obi.com/problem/show/20/126
